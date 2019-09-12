@@ -1,4 +1,4 @@
-# IP_Scanner
+# Network Scanner
 Simple IP Scanner using Scapy
 
 Limitations: The scanner uses ARP broadcasts to scan a subnet and is limited to a broadcast domain.
