@@ -1,6 +1,8 @@
 # IP_Scanner
 Simple IP Scanner using Scapy
 
+Limitations: The scanner uses ARP broadcasts to scan a subnet and is limited to a broadcast domain.
+
 ## How to Run
 ```
 python network_scanner-v2.0.py -t <target_ip/CIDR>
